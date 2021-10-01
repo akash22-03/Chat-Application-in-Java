@@ -68,3 +68,10 @@ is arrived, the server diverts it onto another thread and gets ready for listeni
 to another request. And extracting and processing the data takes place on 
 another thread in parallel.</p>
 
+<h3>Flow Chart</h3>
+<img src="img/img1.jpg" height="1000px">
+
+<h3>SnapShots</h3>
+<img src="img/img2.jpg" height="1000px">
+<img src="img/img3.jpg" height="1000px">
+<img src="img/img4.jpg" height="1000px">
